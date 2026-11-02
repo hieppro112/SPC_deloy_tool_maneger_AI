@@ -1,0 +1,33 @@
+# Bin và Obj folders
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Package folders
+packages/
+*.nupkg
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Rider (nếu dùng)
+.idea/
+
+# Mac
+.DS_Store
+**/*_wpftmp.csproj
+ 
+
+ 
+ 
